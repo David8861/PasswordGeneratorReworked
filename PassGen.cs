@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-namespace Password_Generator
+namespace PasswordGeneratorReworked
 {
     public class PassGen
     {

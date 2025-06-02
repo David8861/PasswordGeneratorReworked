@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Password_Generator
+namespace PasswordGeneratorReworked
 {
     public class Program
     {

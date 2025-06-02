@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 
-namespace Password_Generator
+namespace PasswordGeneratorReworked
 {
     public class UserGen
     {
